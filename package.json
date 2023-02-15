@@ -1,0 +1,26 @@
+{
+  "name": "seotool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dosacat/SEOTool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dosacat/SEOTool/issues"
+  },
+  "homepage": "https://github.com/dosacat/SEOTool#readme",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.0"
+  }
+}
